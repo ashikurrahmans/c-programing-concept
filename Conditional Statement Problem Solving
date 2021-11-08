@@ -1,0 +1,14 @@
+
+// Accept two Integers and Check if they are Equal
+
+#include <stdio.h>
+main()
+{
+    int number1;
+    int number2;
+    scanf("%d %d", &number1,&number2);
+    if (number1 == number2)
+            printf("Both are equal");
+    else printf("Both are not equal");
+    return 0;
+}
