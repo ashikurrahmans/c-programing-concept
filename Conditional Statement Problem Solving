@@ -11,4 +11,108 @@ main()
             printf("Both are equal");
     else printf("Both are not equal");
     return 0;
+    
+    
+    
+   //  Check whether a number is even or odd
+   
+     int number;
+    printf("Please Enter an Number to Check Even Or ODD: ");
+    scanf("%d",&number);
+    if(number % 2 == 0)
+        printf("Number is Even");
+    else
+        printf("Number is Odd");
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }
