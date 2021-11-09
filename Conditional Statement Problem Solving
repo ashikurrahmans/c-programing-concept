@@ -25,4 +25,16 @@
     
     
 
+  // Check Positive Or Negative Number 
   
+      int number;
+    printf("Write a number to check It's Positive or Negative : ");
+    scanf("%d",&number);
+    if(number>0)
+        printf("It's Positive Number.");
+    else
+        printf("It's Negative Number");
+    return 0;
+    
+    
+    
