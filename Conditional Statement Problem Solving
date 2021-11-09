@@ -38,3 +38,21 @@
     
     
     
+    // Check whether a given year is a leap year or not
+    
+    
+        int checkYear;
+    printf("Please write a year for check is it Leap year or not : ");
+    scanf("%d",&checkYear);
+    if((checkYear % 400) == 0)
+        printf("It is leap Year");
+    else if ((checkYear % 100 ) == 0)
+        printf("This is not leap year");
+    else if ((checkYear % 4 ) == 0)
+        printf("This is leap year");
+    else
+        printf("This is not leap year");
+    return 0;
+    
+    
+    
