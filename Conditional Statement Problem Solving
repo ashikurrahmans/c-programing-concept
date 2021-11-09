@@ -1,9 +1,8 @@
 
+
 // Accept two Integers and Check if they are Equal
 
-#include <stdio.h>
-main()
-{
+
     int number1;
     int number2;
     scanf("%d %d", &number1,&number2);
@@ -25,94 +24,5 @@ main()
         printf("Number is Odd");
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-}
+
+  
