@@ -84,4 +84,21 @@
         printf("You are Tall");
     else
         printf("you are abnormal");
+  
+  // Write a C program to find the largest of three numbers.
     
+    
+        int n1,n2, n3;
+
+    printf("Input the values of three numbers : ");
+    scanf("%d %d %d", &n1, &n2, &n3);
+    printf("1st Number = %d,\t2nd Number = %d,\t3rd Number = %d\n", n1, n2, n3);
+    if(n1>n2)
+        if(n1>n3)
+            printf("%d is bigger then three",n1);
+        else
+            printf("%d is bigger then three",n3);
+    else if (n2>n3)
+        printf("%d is bigger then among three",n2);
+    else
+        printf("%d is bigger then among three",n3);
