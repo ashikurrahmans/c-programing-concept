@@ -53,6 +53,21 @@
     else
         printf("This is not leap year");
     return 0;
+   
+   
+   
+   //  C program to read the value of an integer m and display the value of n is 1 when m is larger than 0, 0 when m is 0 and -1 when m is less than 0.
     
-    
+        int m,n;
+    printf("Write a number as m : ");
+    scanf("%d",&m);
+    if(m!=0)
+        if(m>0)
+            n = 1;
+        else
+            n = -1;
+    else
+        n = 0;
+    printf("The number of m : %d\n",m);
+    printf("The number of n : %d\n",n);
     
