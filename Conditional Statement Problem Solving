@@ -71,3 +71,17 @@
     printf("The number of m : %d\n",m);
     printf("The number of n : %d\n",n);
     
+    // Write a C program to accept the height of a person in centimeter and categorize the person according to their height.
+    
+        float height;
+    printf("Write your height in Centimeter : ");
+    scanf("%f",&height);
+    if(100>=height)
+        printf("you are dwarf");
+    else if(100<height && 150>=height)
+        printf("You are Average");
+    else if (150<height && 180>=height)
+        printf("You are Tall");
+    else
+        printf("you are abnormal");
+    
