@@ -102,3 +102,46 @@
         printf("%d is bigger then among three",n2);
     else
         printf("%d is bigger then among three",n3);
+        
+ //      ======================================================
+Write a C program to find the eligibility of admission for a professional course based on the following criteria:
+Marks in Maths >=65
+Marks in Phy >=55
+Marks in Chem>=50
+Total in all three subject >=190
+or
+Total in Math and Physics >=140
+===============================================
+        
+        
+        int math , phy , chem, total3 , mathphy ;
+    printf("Input the marks of math : ");
+    scanf("%d",&math);
+    printf("Input the marks of Physics : ");
+    scanf("%d",&phy);
+    printf("Input the marks of Chemistry : ");
+    scanf("%d",&chem);
+    printf("Total 3 Subjects of Number : %d \n",(math+phy+chem));
+    printf("Total Math & Physics Number : %d \n",(phy+math));
+
+    total3=math+phy+chem;
+    mathphy=phy+math;
+
+    if(math>=65)
+        if(phy>=55)
+            if(chem>=50)
+                if(total3>=190 || mathphy>=140)
+                    printf(" ==> candidate is Eligible");
+                else
+                    printf("Candidate is not eligible");
+            else
+                printf("Candidate is not eligible.");
+        else
+        printf("Candidate is not eligible.");
+    else
+        printf("The candidate is not eligible.");
+        
+        
+        
+        
+
