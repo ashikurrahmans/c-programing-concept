@@ -1,0 +1,18 @@
+
+
+//  Make Lower case Charecter to Capital 
+
+    char makeCapital;
+    printf("Write a lower case character : ");
+    scanf("%c",&makeCapital);
+    printf("Your conversion is : %c",makeCapital - 32;
+    
+    
+    
+    //  Make Capital case Charecter to Lower 
+
+    char makeLower;
+    printf("Write a Capital character : ");
+    scanf("%c",&makeLower);
+    printf("Your conversion is : %c",makeLower + 32);
+    
