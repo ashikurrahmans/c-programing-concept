@@ -1,6 +1,12 @@
+1 : Make Lower case Charecter to Capital 
+2 : Make Capital case Charecter to Lower 
+3 : Decimal Number to Hexa Decimal Numbe
 
 
-//  Make Lower case Charecter to Capital 
+
+
+
+1 :  Make Lower case Charecter to Capital 
 
     char makeCapital;
     printf("Write a lower case character : ");
@@ -9,10 +15,18 @@
     
     
     
-    //  Make Capital case Charecter to Lower 
+ 2 :  Make Capital case Charecter to Lower 
 
     char makeLower;
     printf("Write a Capital character : ");
     scanf("%c",&makeLower);
     printf("Your conversion is : %c",makeLower + 32);
     
+
+3 : Decimal Number to Hexa Decimal Number 
+
+    int number;
+    printf("Write an integer number : ");
+    scanf("%d",&number);
+
+    printf("Hexadecimal Number : %x",number);
