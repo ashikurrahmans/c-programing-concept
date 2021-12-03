@@ -1,1 +1,15 @@
 
+1 : Sum 2 Numbers 
+
+
+
+
+
+1 :  Sum 2 Numbers from user data 
+
+    int num1,num2,sum;
+    printf("Write two numbers : ");
+    scanf("%d %d",&num1,&num2);
+
+    sum = num1 + num2;
+    printf("Two number sum is : %d",sum);
