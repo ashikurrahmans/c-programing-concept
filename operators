@@ -1,5 +1,6 @@
 
 1 : Sum 2 Numbers 
+2 : Average number 
 
 
 
@@ -13,3 +14,17 @@
 
     sum = num1 + num2;
     printf("Two number sum is : %d",sum);
+    
+    
+    2 : Average Numbers 
+    
+     int num1,num2,result;
+    float evg;
+    printf("Write two numbers :");
+    scanf("%d %d",&num1,&num2);
+
+    result = num1 + num2 ;
+    printf("Sum is : %d", result);
+
+    evg = (float)result / 2 ;
+    printf("average is : %.1f",evg);
