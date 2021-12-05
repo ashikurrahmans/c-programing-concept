@@ -1,9 +1,10 @@
 <h1 align="center">Operators Practice</h1>
 
 <h3>Table of contents </h3>
+
 | No | Questions | 
-| -- | --------- | 
-| -- | Input & Output System | 
+| --- | --- |
+| --- | Input & Output System | 
 | 1 | [1 : Make Lower case to Capital](#make-lower-case-to-capital) | 
 
 [1 : Make Lower case to Capital](#make-lower-case-to-capital)</br>
