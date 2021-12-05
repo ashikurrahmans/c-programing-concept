@@ -1,15 +1,15 @@
 <h1 align="center">Operators Practice</h1>
 
-[1 : Sum 2 Numbers](#1.sum-2-numbers)</br>
-[2 : Average number](#2.average-numbers)</br>
-[3 : Area of a triangle](#3.areaofatriangle)</br>
+[1 : Sum 2 Numbers](#sum-2-numbers)</br>
+[2 : Average number](#average-number)</br>
+[3 : Area of a triangle](#area-of-a-triangle)</br>
 
 
 
 
 
 
-### 1 : Sum 2 Numbers 
+1. ### Sum 2 Numbers 
 
 ```
 
@@ -22,7 +22,7 @@
 
 ```
 
-### 2 : Average Numbers
+2. ### Average Number
 
 ```
     int num1,num2,result;
@@ -37,7 +37,7 @@
     printf("average is : %.1f",evg);
 ```
     
-### 3 : Area of A Triangle
+3. ### Area Of A Triangle
 
 ```
     float height , base , area;
