@@ -1,5 +1,11 @@
 <h1 align="center">Operators Practice</h1>
 
+<h3>Table of contents </h3>
+| No | Questions | 
+| -- | --------- | 
+| -- | Input & Output System | 
+| 1 | [1 : Make Lower case to Capital](#make-lower-case-to-capital) | 
+
 [1 : Make Lower case to Capital](#make-lower-case-to-capital)</br>
 [2 : Make Capital case to Lower](#make-capital-case-to-lower)</br>
 [3 : Convert Decimal Number to Hexa Decimal](#decimal-to-hexa-decimal)</br>
