@@ -4,7 +4,7 @@
 
 | No | Questions | 
 | --- | --- |
-| --- | **Input & Output System** | 
+|| **Input & Output System** | 
 | 1 | [Make Lower case to Capital](#make-lower-case-to-capital) | 
 | 2 | [Make Capital case to Lower](#make-capital-case-to-lower)|
 | 3 | [Convert Decimal Number to Hexa Decimal](#decimal-to-hexa-decimal)|
