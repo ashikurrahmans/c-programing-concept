@@ -1,6 +1,6 @@
 <h1 align="center">Operators Practice</h1>
 
-[1 : Sum 2 Numbers](#sum-two-numbers)</br>
+[1 : Sum 2 Numbers](#sum-2-numbers)</br>
 [2 : Average number](#averagenumber)</br>
 [3 : Area of a triangle](#areaofatriangle)</br>
 
@@ -30,7 +30,7 @@ voluptate impedit error!
 
 
 
-## Sum Two Numbers 
+## Sum 2 Numbers 
 
     ```sum2numbers
 
