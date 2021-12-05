@@ -4,15 +4,13 @@
 
 | No | Questions | 
 | --- | --- |
-| --- | Input & Output System | 
-| 1 | [1 : Make Lower case to Capital](#make-lower-case-to-capital) | 
-
-[1 : Make Lower case to Capital](#make-lower-case-to-capital)</br>
-[2 : Make Capital case to Lower](#make-capital-case-to-lower)</br>
-[3 : Convert Decimal Number to Hexa Decimal](#decimal-to-hexa-decimal)</br>
-[4 : Sum 2 numbers from inputs](#sum-2-numbers-from-inputs)</br>
-[5 : Average number from inputs](#average-number-from-inputs)</br>
-[6 : Area of a triangle by height & weight](#area-of-a-triangle-from-inputs)</br>
+| --- | **Input & Output System** | 
+| 1 | [Make Lower case to Capital](#make-lower-case-to-capital) | 
+| 2 | [Make Capital case to Lower](#make-capital-case-to-lower)|
+| 3 | [Convert Decimal Number to Hexa Decimal](#decimal-to-hexa-decimal)|
+| 4 | [Sum 2 numbers from inputs](#sum-2-numbers-from-inputs)|
+| 5 | [Average number from inputs](#average-number-from-inputs)|
+| 6 | [Area of a triangle by height & weight](#area-of-a-triangle-from-inputs)|
 
 
 
