@@ -1,6 +1,9 @@
 
 1 : Sum 2 Numbers 
 2 : Average number 
+3 : Area of a triangle 
+
+<li><a href="#3no"> Area of triangle</a></li>
 
 
 
@@ -28,3 +31,19 @@
 
     evg = (float)result / 2 ;
     printf("average is : %.1f",evg);
+    
+    
+    
+    3 : Area of A Triangle 
+    
+    float height , base , area;
+
+    printf("What is your height : ");
+    scanf("%f",&height);
+
+    printf("What is your width : ");
+    scanf("%f",&base);
+
+    area = (float)1/2 * height * base;
+
+    printf("Result is : %.2f",area);
