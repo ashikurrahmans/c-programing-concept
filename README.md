@@ -1,6 +1,8 @@
-|[1 : Sum 2 Numbers](#sum2numbers)|
-|[2 : Average number](#averagenumber)|
-|[3 : Area of a triangle](#areaofatriangle)|
+<h1 align="center">Operators Practice</h1>
+
+[1 : Sum 2 Numbers](#sum2numbers)</br>
+[2 : Average number](#averagenumber)</br>
+[3 : Area of a triangle](#areaofatriangle)</br>
 
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus voluptatem ex eum, eligendi recusandae illum
