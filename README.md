@@ -1,4 +1,4 @@
-<h1 align="center">Operators Practice</h1>
+<h1 align="center">Problem Solving using - C Program</h1>
 
 <h3>Table of contents </h3>
 
