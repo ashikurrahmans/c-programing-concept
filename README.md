@@ -32,7 +32,7 @@ voluptate impedit error!
 
 ## Sum 2 Numbers 
 
-    ```sum2numbers
+    ```
 
     int num1,num2,sum;
     printf("Write two numbers : ");
