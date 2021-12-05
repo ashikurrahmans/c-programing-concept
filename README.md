@@ -1,7 +1,6 @@
-[1 : Sum 2 Numbers](#sum2numbers) |
-[2 : Average number](#averagenumber) |
-[3 : Area of a triangle](#areaofatriangle) |
-
+|[1 : Sum 2 Numbers](#sum2numbers)|
+|[2 : Average number](#averagenumber)|
+|[3 : Area of a triangle](#areaofatriangle)|
 
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus voluptatem ex eum, eligendi recusandae illum
