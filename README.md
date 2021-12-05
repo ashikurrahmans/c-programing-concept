@@ -1,9 +1,7 @@
+[1 : Sum 2 Numbers](#sum2numbers)
+[2 : Average number](#averagenumber)
+[3 : Area of a triangle](#areaofatriangle)
 
-<h1 align="center">Operators Practices</h1>
-
-    <li><a href="#sum2numbers">1 : Sum 2 Numbers </a></li>
-    <li><a href="#averagenumber">2 : Average number </a></li>
-    <li><a href="#areaofatriangle">3 : Area of a triangle </a></li>
 
 
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus voluptatem ex eum, eligendi recusandae illum
@@ -45,8 +43,9 @@
 
 
 
-    ```sum2numbers
     ### 1 : Sum 2 Numbers from user data
+
+    ```sum2numbers
 
     int num1,num2,sum;
     printf("Write two numbers : ");
@@ -57,10 +56,9 @@
 
     ```
 
+    ### 2 : Average Numbers
 
     ```#averagenumber
-
-    ### 2 : Average Numbers
 
     int num1,num2,result;
     float evg;
@@ -74,10 +72,10 @@
     printf("average is : %.1f",evg);
 
     ```
-
+    
+    ### 3 : Area of A Triangle
 
     ```areaofatriangle
-    ### 3 : Area of A Triangle
 
     float height , base , area;
 
@@ -91,5 +89,3 @@
 
     printf("Result is : %.2f",area);
     ```
-
-
