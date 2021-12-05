@@ -10,7 +10,7 @@
 
 
 1. ### Sum 2 Numbers 
-
+    in this section i am going to take 2 different numbers for make addition ans show the result in console.  
 ```
 
     int num1,num2,sum;
