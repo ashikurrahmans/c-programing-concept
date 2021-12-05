@@ -3,9 +3,9 @@
 [1 : Make Lower case to Capital](#make-lower-case-to-capital)</br>
 [2 : Make Capital case to Lower](#make-capital-case-to-lower)</br>
 [3 : Convert Decimal Number to Hexa Decimal](#decimal-to-hexa-decimal)</br>
-[4 : Sum 2 Numbers](#sum-2-numbers)</br>
-[5 : Average number](#average-number)</br>
-[6 : Area of a triangle](#area-of-a-triangle)</br>
+[4 : Sum 2 numbers from two input](#sum-2-numbers)</br>
+[5 : Average number from two input](#average-number)</br>
+[6 : Area of a triangle by height & width](#area-of-a-triangle)</br>
 
 
 
