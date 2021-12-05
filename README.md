@@ -9,9 +9,9 @@
 
 
 
-### Sum 2 Numbers 
+### 1 : Sum 2 Numbers 
 
-    ```
+```
 
     int num1,num2,sum;
     printf("Write two numbers : ");
@@ -20,7 +20,7 @@
     sum = num1 + num2;
     printf("Two number sum is : %d",sum);
 
-    ```
+```
 
 ### 2 : Average Numbers
 
