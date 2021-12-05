@@ -1,6 +1,6 @@
 <h1 align="center">Operators Practice</h1>
 
-[1 : Sum 2 Numbers](#sum-2-numbers)</br>
+[1 : Sum 2 Numbers](#1-:-sum-2-numbers)</br>
 [2 : Average number](#average-numbers)</br>
 [3 : Area of a triangle](#areaofatriangle)</br>
 
