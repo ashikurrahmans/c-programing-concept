@@ -1,11 +1,11 @@
 <h1 align="center">Operators Practice</h1>
 
-[1 : Sum 2 Numbers](#sum2numbers)</br>
+[1 : Sum 2 Numbers](#sum-2-numbers)</br>
 [2 : Average number](#averagenumber)</br>
 [3 : Area of a triangle](#areaofatriangle)</br>
 
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus voluptatem ex eum, eligendi recusandae illum
+Lorem ipsum dolor, sit [facebook](https://facebook.com) consectetur **adipisicing** elit. Accusamus `voluptatem` ex eum, **eligendi** _recusandae_ illum
 ab temporibus hic tempore deleniti placeat nulla dolorem aspernatur mollitia quas porro quae, deserunt iste cum
 illo at, esse facere doloribus. Perspiciatis repudiandae architecto nobis autem fugiat ea repellat reprehenderit
 quis ex rem maxime aspernatur eveniet provident inventore alias doloremque ab cum totam voluptas, eos assumenda.
@@ -30,7 +30,7 @@ voluptate impedit error!
 
 
 
-    ### 1 : Sum 2 Numbers from user data
+    ###Sum 2 Numbers 
 
     ```sum2numbers
 
@@ -63,16 +63,12 @@ voluptate impedit error!
     ### 3 : Area of A Triangle
 
     ```areaofatriangle
-
+    
     float height , base , area;
-
     printf("What is your height : ");
     scanf("%f",&height);
-
     printf("What is your width : ");
     scanf("%f",&base);
-
     area = (float)1/2 * height * base;
-
     printf("Result is : %.2f",area);
     ```
