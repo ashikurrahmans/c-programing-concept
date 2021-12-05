@@ -24,8 +24,7 @@
 
 ### 2 : Average Numbers
 
-    ```
-
+```
     int num1,num2,result;
     float evg;
     printf("Write two numbers :");
@@ -36,13 +35,11 @@
 
     evg = (float)result / 2 ;
     printf("average is : %.1f",evg);
-
-    ```
+```
     
 ### 3 : Area of A Triangle
 
-    ```
-    
+```
     float height , base , area;
     printf("What is your height : ");
     scanf("%f",&height);
@@ -50,4 +47,4 @@
     scanf("%f",&base);
     area = (float)1/2 * height * base;
     printf("Result is : %.2f",area);
-    ```
+```
