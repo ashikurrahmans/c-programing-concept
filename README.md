@@ -11,7 +11,7 @@
 | 4 | [Sum 2 numbers from inputs](#sum-2-numbers-from-inputs)|
 | 5 | [Average number from inputs](#average-number-from-inputs)|
 | 6 | [Area of a triangle by height & weight](#area-of-a-triangle-from-inputs)|
-| 7 | [Length of 3 sides of triangle](Length-of-3-sides-of-a-triangle ) | 
+| 7 | [Length of 3 sides of triangle](length-of-3-sides-of-a-triangle ) | 
 
 
 
