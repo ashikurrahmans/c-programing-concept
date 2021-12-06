@@ -11,7 +11,7 @@
 | 4 | [Sum 2 numbers from inputs](#sum-2-numbers-from-inputs)|
 | 5 | [Average number from inputs](#average-number-from-inputs)|
 | 6 | [Area of a triangle by height & weight](#area-of-a-triangle-from-inputs)|
-
+| 7 | [Length of 3 sides of triangle](Length-of-3-sides-of-a-triangle ) | 
 
 
 
@@ -83,3 +83,18 @@
     area = (float)1/2 * height * base;
     printf("Result is : %.2f",area);
 ```
+
+7. ### Length of 3 sides of a triangle 
+
+
+```
+    double a , b , c, s , area;
+    printf("Enter 3 Values : ");
+    scanf("%lf %lf %lf",&a,&b,&c);
+
+    s = (a+b+c)/2;
+    area = sqrt(s*(s-a)*(s-b)*(s-c));
+
+    printf("The Area of Triangle : %.2lf",area);
+```
+
