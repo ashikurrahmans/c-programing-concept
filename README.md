@@ -20,8 +20,10 @@
 1. ###  Make lower case to capital
 ```
     char makeCapital;
+    
     printf("Write a lower case character : ");
     scanf("%c",&makeCapital);
+    
     printf("Your conversion is : %c",makeCapital - 32;
  ```   
     
@@ -29,8 +31,10 @@
 2. ### Make Capital case to Lower 
 ```
     char makeLower;
+    
     printf("Write a Capital character : ");
     scanf("%c",&makeLower);
+    
     printf("Your conversion is : %c",makeLower + 32);
 ```    
 
@@ -50,6 +54,7 @@
 ```
 
     int num1,num2,sum;
+    
     printf("Write two numbers : ");
     scanf("%d %d",&num1,&num2);
 
@@ -63,6 +68,7 @@
 ```
     int num1,num2,result;
     float evg;
+    
     printf("Write two numbers :");
     scanf("%d %d",&num1,&num2);
 
@@ -77,10 +83,13 @@
 
 ```
     float height , base , area;
+    
     printf("What is your height : ");
     scanf("%f",&height);
+    
     printf("What is your width : ");
     scanf("%f",&base);
+    
     area = (float)1/2 * height * base;
     printf("Result is : %.2f",area);
 ```
@@ -90,6 +99,7 @@
 
 ```
     double a , b , c, s , area;
+    
     printf("Enter 3 Values : ");
     scanf("%lf %lf %lf",&a,&b,&c);
 
