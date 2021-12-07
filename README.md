@@ -12,6 +12,7 @@
 | 5 | [Average number from inputs](#average-number-from-inputs)|
 | 6 | [Area of a triangle by height & weight](#area-of-a-triangle-from-inputs)|
 | 7 | [Length of 3 sides of triangle](#length-of-3-sides-of-a-triangle ) | 
+| 8 | [Area of rectangle ](#area-of-rectangle)
 
 
 
@@ -98,3 +99,19 @@
     printf("The Area of Triangle : %.2lf",area);
 ```
 
+8. ### Area of Rectangle 
+
+```
+    float length,width,area;
+
+    printf("Enter your length : ");
+    scanf("%f",&length);
+
+    printf("Enter your width : ");
+    scanf("%f",&width);
+
+    area = length * width;
+
+    printf("The area of rectangle : %.2f",area);
+    
+```
