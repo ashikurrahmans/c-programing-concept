@@ -12,7 +12,9 @@
 | 5 | [Average number from inputs](#average-number-from-inputs)|
 | 6 | [Area of a triangle by height & weight](#area-of-a-triangle-from-inputs)|
 | 7 | [Length of 3 sides of triangle](#length-of-3-sides-of-a-triangle ) | 
-| 8 | [Area of rectangle ](#area-of-rectangle)
+| 8 | [Area of rectangle ](#area-of-rectangle) | 
+| 9 | [Radius of the circle](#radius-of-the-circle) | 
+
 
 
 
@@ -125,3 +127,18 @@
     printf("The area of rectangle : %.2f",area);
     
 ```
+
+
+9. ### Radius of the circle 
+
+
+```
+    float area , radius;
+    printf("Write your radius : ");
+    scanf("%f",&radius);
+
+    area = 3.1416 * radius * radius;
+
+    printf("Area of Circle : %.2f",area);
+```
+
