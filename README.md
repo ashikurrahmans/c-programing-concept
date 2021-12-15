@@ -14,6 +14,7 @@
 | 7 | [Length of 3 sides of triangle](#length-of-3-sides-of-a-triangle ) | 
 | 8 | [Area of rectangle ](#area-of-rectangle) | 
 | 9 | [Radius of the circle](#radius-of-the-circle) | 
+| 10 | [Fahrenheit to Celsius ](#fahrenheit-to-celsius)
 
 
 
@@ -142,3 +143,17 @@
     printf("Area of Circle : %.2f",area);
 ```
 
+10. ### Fahrenheit to Celsius 
+
+
+```    
+
+float c , f ;
+printf("Write your centegrate value : ");
+scanf("%f",&c);
+
+f = (1.8 * c)+ 32;
+
+printf("Fahrenheit : %.2f \n",f);
+
+```
