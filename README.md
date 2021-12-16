@@ -14,7 +14,8 @@
 | 7 | [Length of 3 sides of triangle](#length-of-3-sides-of-a-triangle ) | 
 | 8 | [Area of rectangle ](#area-of-rectangle) | 
 | 9 | [Radius of the circle](#radius-of-the-circle) | 
-| 10 | [Fahrenheit to Celsius ](#fahrenheit-to-celsius)
+| 10 | [Fahrenheit to Celsius ](#fahrenheit-to-celsius) | 
+| 11 | [Celsius to Fahrenheit](#celsius-to-fahrenheit) |
 
 
 
@@ -155,5 +156,17 @@ scanf("%f",&c);
 f = (1.8 * c)+ 32;
 
 printf("Fahrenheit : %.2f \n",f);
+
+```
+11. ### Celsius to Fahrenheit
+// Rules : c = (f-32)/1.8;
+
+float c , f;
+printf("Write your fahrenheit value : ");
+scanf("%f",&f);
+
+c = (f-32)/1.8;
+
+printf("Celcius value is : %.2f",c);
 
 ```
