@@ -162,6 +162,7 @@ printf("Fahrenheit : %.2f \n",f);
 // Rules : c = (f-32)/1.8;
 
 float c , f;
+
 printf("Write your fahrenheit value : ");
 scanf("%f",&f);
 
